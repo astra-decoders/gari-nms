@@ -1,0 +1,22 @@
+     shots,    errors,  discards, seconds,decoder,strong_id,json_metadata,custom_counts
+    131072,       114,         0,    4.00,HBP_etB_corr_big_sr_400_0.9921875_1_0_2_et1,b29f8fe9cc7243118c32d6964a8d8b2b3d649ecbab50dece11e8fdbca467970c,"{""d"":6,""p"":0.001,""rounds"":6}","{""avg_itr"":2,""base"":2}"
+
+    589824,       108,         0,    82.0,HBP_etB_corr_big_sr_400_0.9921875_1_0_2_et1,54ebf1bea820f09c2f912b182d5d3762c63af1382c68ecf7744488378ba869e6,"{""d"":10,""p"":0.001,""rounds"":10}","{""avg_itr"":18,""base"":9}"
+   3014656,       103,         0, 10671.0,HBP_etB_corr_big_sr_400_0.9921875_1_0_2_et1_en24_i,a5e6ad14e4baceda9ae11932b935f119fc70c3e28c515ecf8691b4f68f71b57f,"{""d"":10,""p"":0.001,""rounds"":10}","{""base"":46}"
+   3670016,       100,         0, 31566.0,HBP_etB_corr_big_sr_400_0.9921875_1_0_2_et1_en48_i,5afbaa17853365b08a0e30200cb202a85d416689d7e866ffa138da7dcdc1817a,"{""d"":10,""p"":0.001,""rounds"":10}","{""base"":56}"
+
+
+   2359296,       100,         0,  1090.0,HBP_etB_corr_big_sr_400_0.9921875_1_0_2_et1,e0efae10a50385ebba701cf7cf68a4da945f5a91d2ed88f8c475b131ad725616,"{""d"":12,""p"":0.001,""rounds"":12}","{""avg_itr"":72,""base"":36}"
+
+   8912896,        18,         0, 85210.0,HBP_etB_corr_big_sr_400_0.9921875_1_0_2_et1_en24_i,78e1c48f09a923edf4d497177ebfab113c8c29b2b84d1b3d8985fb77fd311951,"{""d"":12,""p"":0.001,""rounds"":12}","{""avg_itr"":136,""base"":136}"
+   8519680,        20,         0, 85290.0,HBP_etB_corr_big_sr_400_0.9921875_1_0_2_et1_en24_i,78e1c48f09a923edf4d497177ebfab113c8c29b2b84d1b3d8985fb77fd311951,"{""d"":12,""p"":0.001,""rounds"":12}","{""avg_itr"":130,""base"":130}"
+  26083328,        71,         0,255632.0,HBP_etB_corr_big_sr_400_0.9921875_1_0_2_et1_en24_i,78e1c48f09a923edf4d497177ebfab113c8c29b2b84d1b3d8985fb77fd311951,"{""d"":12,""p"":0.001,""rounds"":12}","{""avg_itr"":398,""base"":398}"
+
+   5767168,        11,         0, 85713.0,HBP_etB_corr_big_sr_400_0.9921875_1_0_2_et1_en36_i,e40c663a6eeca21d77fedd4a090ed4ed0a8630789e355422eabb0092b0416efe,"{""d"":12,""p"":0.001,""rounds"":12}","{""avg_itr"":88,""base"":88}"
+   5963776,        11,         0, 85141.0,HBP_etB_corr_big_sr_400_0.9921875_1_0_2_et1_en36_i,e40c663a6eeca21d77fedd4a090ed4ed0a8630789e355422eabb0092b0416efe,"{""d"":12,""p"":0.001,""rounds"":12}","{""avg_itr"":91,""base"":91}"
+
+  13238272,        20,         0,257639.0,HBP_etB_corr_big_sr_400_0.9921875_1_0_2_et1_en48_i,e096662dd66b93704c9648c2dbf788657602dc3c494f0b7b765aac536aaf220c,"{""d"":12,""p"":0.001,""rounds"":12}","{""avg_itr"":202,""base"":202}"
+  13959168,        25,         0,256400.0,HBP_etB_corr_big_sr_400_0.9921875_1_0_2_et1_en48_i,e096662dd66b93704c9648c2dbf788657602dc3c494f0b7b765aac536aaf220c,"{""d"":12,""p"":0.001,""rounds"":12}","{""avg_itr"":213,""base"":213}"
+  13238272,        25,         0,256488.0,HBP_etB_corr_big_sr_400_0.9921875_1_0_2_et1_en48_i,e096662dd66b93704c9648c2dbf788657602dc3c494f0b7b765aac536aaf220c,"{""d"":12,""p"":0.001,""rounds"":12}","{""avg_itr"":202,""base"":202}"
+  13500416,        24,         0,256536.0,HBP_etB_corr_big_sr_400_0.9921875_1_0_2_et1_en48_i,e096662dd66b93704c9648c2dbf788657602dc3c494f0b7b765aac536aaf220c,"{""d"":12,""p"":0.001,""rounds"":12}","{""avg_itr"":206,""base"":206}"
+   4521984,         6,         0, 84904.0,HBP_etB_corr_big_sr_400_0.9921875_1_0_2_et1_en48_i,e096662dd66b93704c9648c2dbf788657602dc3c494f0b7b765aac536aaf220c,"{""d"":12,""p"":0.001,""rounds"":12}","{""avg_itr"":69,""base"":69}"
