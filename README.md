@@ -1,6 +1,6 @@
 # GARI-NMS decoder
 
-Note: This codebase is to reproduce the results from a paper; a cleaned-up user-friendly version is in preparation.
+Note: This codebase is to reproduce the results of the paper; a cleaned-up user-friendly version is in preparation.
 
 Directory structure:
 - data/
