@@ -5,7 +5,7 @@ from ldpc.ckt_noise.dem_matrices import detector_error_model_to_check_matrices
 # import beliefmatching
 from ldpc.bposd_decoder import BpOsdDecoder
 from ldpc.bp_decoder import BpDecoder
-from build_circuit import bb_circuit, surface_code_one_basis_circuit,det_and_err_encoding,a_in_b_idx,build_Hcols_Hrows
+from helper_functions import bb_circuit,surface_code_one_basis_circuit,det_and_err_encoding,a_in_b_idx,build_Hcols_Hrows
 from codes_q import *
 from ldpc.mod2 import *
 import pymatching
@@ -318,7 +318,7 @@ def main(dist,p, itrs, msf, rs,shots, cs, max_errs, priort,ens,poi, num_threads=
 
 
 if __name__ == '__main__':
-    dist = 12
+    dist = 6
     p= 0.002
     itrs = 400
     msf = 0.96875
